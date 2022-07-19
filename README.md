@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Darshan018
-- 👀 I’m interested in Data Scientist, Machine Learning, Artificial Intelligence.
-- 🌱 I’m currently learning Data Scientist.
+- 👀 I’m interested in DevOps and Cloud Computing.
 - 📫 How to reach me darshansadhu28@gmail.com
 
 <!---
